@@ -1,5 +1,12 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+#ignore agents
+CLAUDE.md
+AGENTS.md
+/.agents
+/.claude
+/.kombai
+
 # dependencies
 /node_modules
 /.pnp
